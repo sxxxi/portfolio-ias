@@ -1,0 +1,4 @@
+[submodule "service"]
+	path = service
+	url = git@github.com:sxxxi/portfolio-microservice-configs
+	branch = main
